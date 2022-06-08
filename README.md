@@ -30,7 +30,7 @@ Below are the results of the analysis between the three city types Urban, Suburb
   - Average fare per driver is $55.49
 Below is the results data shown in a tabular format.
 
-<img width="462" alt="image" src="https://user-images.githubusercontent.com/104597335/172661066-b609fc39-d7d5-4cde-b40c-efb46f406663.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/104597335/172661066-b609fc39-d7d5-4cde-b40c-efb46f406663.png">
 
 
 
