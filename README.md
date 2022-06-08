@@ -28,6 +28,12 @@ Below are the results of the analysis between the three city types Urban, Suburb
   - Total fare amounts to $4,327.93		
   - Average fare per ride is $34.62
   - Average fare per driver is $55.49
+Below is the results data shown in a tabular format.
+
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/104597335/172661066-b609fc39-d7d5-4cde-b40c-efb46f406663.png">
+
+
+
 When we look at the line chart of these three city types fares from Jan to may of 2019 we can say that the total amount of fares is higher in Rural areas compared to Urban and suburban. Even suburban city types have the fares amounts more compared to that of the Urban types. 
 Below is the image explaining the sum of fares for each city type from January to May of 2019.
 
